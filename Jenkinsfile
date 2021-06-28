@@ -8,6 +8,7 @@ pipeline {
     
       steps {
         echo "build the application..."
+        echo "application built"
       }
       
     }
